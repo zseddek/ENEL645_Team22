@@ -5,4 +5,4 @@
 * Tobi Odufeso
 
 **Directory Information:**
-* `A1` Directory: *Python and Numpy Programming*
+* `A1` Directory, `assignment01-python-numpy-programming.ipynb`: *Python and Numpy Programming*
